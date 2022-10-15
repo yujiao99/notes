@@ -1,0 +1,23 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "日常笔记",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujiao99/notes.git"
+  },
+  "author": "yujiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujiao99/notes/issues"
+  },
+  "homepage": "https://github.com/yujiao99/notes#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
